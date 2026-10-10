@@ -2,7 +2,7 @@
 
 The personal portfolio of [**Sachin Verma**](https://github.com/Sachin1707-jpg). Built with Next.js 15, GSAP, and Lenis, it features scroll-driven animations, animated page transitions, smooth scrolling, and a working contact form.
 
-**Live Site:** [sachinverma.dev](https://sachinverma.dev)
+**Live Site:** [sachinverma.dev](https://sachin-portfolio-jade.vercel.app/)
 
 ## Features
 
